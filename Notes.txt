@@ -1,0 +1,2 @@
+1. Um commit por aula
+2. https://github.com/acenelio/ms-course
