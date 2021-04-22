@@ -8,6 +8,9 @@ public class HrWorkerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HrWorkerApplication.class, args);
+		
+		int result = (int) (1 ^ (1 >>> 32));
+		System.out.print(result);
 	}
 
 }
